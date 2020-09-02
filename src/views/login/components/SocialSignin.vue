@@ -9,8 +9,7 @@
       QQ
     </div>
   </div>
-</template>
-<!-- Array老师提醒：第三方登录入口，大家可以研究研究，属于课外拓展，例如QQ登录和微信登录等-->
+</templat
 <script>
 export default {
   name: 'SocialSignin',
